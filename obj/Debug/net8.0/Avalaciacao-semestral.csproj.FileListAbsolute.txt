@@ -1,0 +1,14 @@
+C:\Users\carol\OneDrive\Área de Trabalho\laboratorio de programação\AS LPO\Avalaciacao-semestral\obj\Debug\net8.0\Avalaciacao-semestral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Área de Trabalho\laboratorio de programação\AS LPO\Avalaciacao-semestral\obj\Debug\net8.0\Avalaciacao-semestral.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\laboratorio de programação\AS LPO\Avalaciacao-semestral\obj\Debug\net8.0\Avalaciacao-semestral.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Área de Trabalho\laboratorio de programação\AS LPO\Avalaciacao-semestral\obj\Debug\net8.0\Avalaciacao-semestral.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\laboratorio de programação\AS LPO\Avalaciacao-semestral\bin\Debug\net8.0\Avalaciacao-semestral.exe
+C:\Users\carol\OneDrive\Área de Trabalho\laboratorio de programação\AS LPO\Avalaciacao-semestral\bin\Debug\net8.0\Avalaciacao-semestral.deps.json
+C:\Users\carol\OneDrive\Área de Trabalho\laboratorio de programação\AS LPO\Avalaciacao-semestral\bin\Debug\net8.0\Avalaciacao-semestral.runtimeconfig.json
+C:\Users\carol\OneDrive\Área de Trabalho\laboratorio de programação\AS LPO\Avalaciacao-semestral\bin\Debug\net8.0\Avalaciacao-semestral.dll
+C:\Users\carol\OneDrive\Área de Trabalho\laboratorio de programação\AS LPO\Avalaciacao-semestral\bin\Debug\net8.0\Avalaciacao-semestral.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\laboratorio de programação\AS LPO\Avalaciacao-semestral\obj\Debug\net8.0\Avalaciacao-semestral.dll
+C:\Users\carol\OneDrive\Área de Trabalho\laboratorio de programação\AS LPO\Avalaciacao-semestral\obj\Debug\net8.0\refint\Avalaciacao-semestral.dll
+C:\Users\carol\OneDrive\Área de Trabalho\laboratorio de programação\AS LPO\Avalaciacao-semestral\obj\Debug\net8.0\Avalaciacao-semestral.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\laboratorio de programação\AS LPO\Avalaciacao-semestral\obj\Debug\net8.0\Avalaciacao-semestral.genruntimeconfig.cache
+C:\Users\carol\OneDrive\Área de Trabalho\laboratorio de programação\AS LPO\Avalaciacao-semestral\obj\Debug\net8.0\ref\Avalaciacao-semestral.dll
